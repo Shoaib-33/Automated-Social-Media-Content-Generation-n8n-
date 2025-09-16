@@ -1,6 +1,5 @@
 #  Automated Social Media Content Generation & Posting
 
-Welcome to the **Automated Social Media Content Generation and Posting** project!  
 Managing social media can be time-consuming — planning posts, writing captions, and designing visuals takes effort every single day.  
 This project automates the entire process by **scraping trends, generating branded content, creating images, and posting automatically**.
 
