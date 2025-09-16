@@ -7,7 +7,7 @@ This project automates the entire process by **scraping trends, generating brand
 
 Here’s a visual representation of the project workflow:
 
-![Project Workflow](workflow-image.png)
+![Project Workflow](social_media.png)
 
 ---
 
